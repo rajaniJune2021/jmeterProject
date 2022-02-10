@@ -1,0 +1,6 @@
+# JMeter generated Header file
+X-IBM-Client-Id	676e1a0f-6178-4de4-a5a1-3ed4147070fe
+X-IBM-Client-Secret	aW1yW8cX6dE8lI0dN3cO8wG7kQ0yI7hN4hA0aK3kR2hS2wY2dM
+Accept	*/*
+Content-Type	application/json
+Authorization	Bearer ${accessToken}
